@@ -487,7 +487,7 @@ def getPage3():
 tk.Label(pages[0], text="Criminal Identification System", fg="black", bg="#00FFFF",
       font="Arial 35 bold", pady=30).pack()
 
-logo = tk.PhotoImage(file = "logo.png")
+logo = tk.PhotoImage(file = "1234.png")
 #logo= logo1.resize((500, 200))
 tk.Label(pages[0], image=logo, bg="#FFFFFF").pack()
 
