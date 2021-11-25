@@ -9,10 +9,10 @@
 
 
 
-<h1> The red color over the face detects it is a criminal and have criminal records. All the past criminal records, and details of criminal will be provided </h1>
+<h4> The red color over the face detects it is a criminal and have criminal records. All the past criminal records, and details of criminal will be provided </h4>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/80983161/143392268-624ba1b6-8bec-404e-9454-d811d06cc4e6.png">
 
-<h1> As I am not a criminal and have no past records, a green box appears over m face indicating I am not a criminal </h1>
+<h4> As I am not a criminal and have no past records, a green box appears over m face indicating I am not a criminal </h4>
 
 
 
