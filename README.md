@@ -1,6 +1,6 @@
 # Criminal-Identity-and-crimes-detection-system
 <h3> Screenshots of my Project </h3>
-<h1> My project also works on real video surveillance which can be very helpful on real life v ideos detecting criminal at varies places from crowd </h1>
+<h1> My project also works on real video surveillance which can be very helpful on real time videos detecting criminal at varies places from crowd </h1>
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/80983161/143391851-c1a8b50e-87c6-45b9-af27-3eb0ce76fb44.png">
 
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/80983161/143392054-10ee99c2-ab67-4081-b3d0-9bae7e1c3f3c.png">
